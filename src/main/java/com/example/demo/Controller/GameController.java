@@ -19,7 +19,7 @@ import java.util.*;
         "http://localhost:8081",
         "http://localhost:3000",
         "https://next-level-web-client.herokuapp.com",
-        "http://nextlevelwebserver-env.eba-aexvhzn9.us-east-1.elasticbeanstalk.com"
+        "http://nextlevelwebclient-env.eba-kxfmvf78.us-east-1.elasticbeanstalk.com"
 })
 @RestController
 @RequestMapping("/games")
